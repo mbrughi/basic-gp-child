@@ -16,7 +16,12 @@ Alternatively, if you want, you can download and extract the [zip archive](https
 ## Features
 
 - 404 custom page
-- 
+- Font Awesome v.5
+- Footer theme copyright
+- Remove Gutenberg welcome modal
+- Add to top arrow button
+- Google Analytics / Tag Manager in code
+- Allow webp image media format
 
 ## License
 
