@@ -11,7 +11,7 @@ Child theme for Wordpress GeneratePress Framework
 
 First Install GeneratePress from Wordpress theme directory, like any others theme, then install this child theme.
 
-Alternatively, if you want, you can download and extract the [zip archive](https://github.com/aduth/g-debugger/archive/master.zip) to a `basic-gp-child` folder in your WordPress installation `wp-content/themes`.
+Alternatively, if you want, you can download and extract the [zip archive](https://github.com/mbrughi/basic-gp-child/archive/master.zip) to a `basic-gp-child` folder in your WordPress installation `wp-content/themes`.
 
 ## Features
 
