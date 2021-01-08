@@ -19,7 +19,7 @@ Alternatively, if you want, you can download and extract the [zip archive](https
 - Font Awesome v.5
 - Footer theme copyright
 - Remove Gutenberg welcome modal
-- Add to top arrow button
+- Back to top arrow button
 - Google Analytics / Tag Manager in code
 - Allow webp image media format
 
