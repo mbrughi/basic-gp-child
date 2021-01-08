@@ -20,7 +20,7 @@ Alternatively, if you want, you can download and extract the [zip archive](https
 - Footer theme copyright
 - Remove Gutenberg welcome modal
 - Back to top arrow button
-- Google Analytics / Tag Manager in code
+- Google Analytics / Tag Manager in code (edit in functions.php at line 78 and insert custom Google Code)
 - Allow webp image media format
 
 ## License
