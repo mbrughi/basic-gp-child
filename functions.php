@@ -37,7 +37,7 @@ add_filter( 'style_loader_tag', 'add_font_awesome_5_cdn_attributes', 10, 2 );
 // theme copyright
 add_filter( 'generate_copyright','mb_custom_copyright' );
 function mb_custom_copyright() {
-    echo '&copy; '.date('Y').' Divano su Misura - P.IVA O49 148 0O265';
+    echo '&copy; '.date('Y').' Il mio sito web - P.IVA 000000000';
 }
 
 /*
